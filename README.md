@@ -11,7 +11,7 @@ You can find slides of the presentation here.
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK320 English-langugae PPT Slides | [Link](https://www.google.com/) | Presenation deck in English |
+| BRK320 English-langugae PPT Slides | [Link](https://www.google.com/) | Presentation deck in English |
 
 ## Content Owners
 Jessica Afeku, Director of CISO Community, Microsoft
