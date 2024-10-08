@@ -1,4 +1,4 @@
-# Secure your future in the age of AI
+# BRK320: Secure your future in the age of AI
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/BRK320.png)
 
